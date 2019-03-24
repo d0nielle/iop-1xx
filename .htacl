@@ -1,0 +1,4 @@
+AuthUserFile "/services/users/zstorage31p1/dbarlan7611/www/iop-1xx.groundwiredesigns.com/.htaclu"
+AuthName Members
+AuthType Basic
+Require valid-user
